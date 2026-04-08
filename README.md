@@ -1,6 +1,6 @@
 # Dogecoin Price Prediction
 
-A beginner-friendly data science project that analyzes and predicts Dogecoin (DOGE-USD) prices using Time Series Analysis with the ARIMA model.
+A beginner-friendly data science project that analyzes and predicts Dogecoin (DOGE-USD) prices using Time Series Analysis with the SARIMAX model.
 
 ---
 
